@@ -1,0 +1,2 @@
+defmodule RockPaperScissors do
+end
